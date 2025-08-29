@@ -34,7 +34,7 @@ El preprocesamiento del texto incluye:
 
 3. **Ejecuta el notebook**
  ```bash
- jupyter notebook FastText.ipynb.ipyn
+ jupyter notebook FastText.ipynb
  ```
 
 ## 🚀 Ejecutar en colab 🚀
