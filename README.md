@@ -38,4 +38,4 @@ El preprocesamiento del texto incluye:
  ```
 
 ## 🚀 Ejecutar en colab 🚀
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Yuritzi15/FastText/blob/main/FastText.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/github/Yuritzi15/FastText/blob/main/FastText.ipynb))
